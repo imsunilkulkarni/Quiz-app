@@ -1,0 +1,36 @@
+[
+  {
+    "question": "What temperature does water boil at?",
+    "optionA": "50 degrees Celcius",
+    "optionB": "25 degrees Celcius",
+    "optionC": "100 degrees Celcius",
+    "optionD": "150 degrees Celcius",
+    "answer": "100 degrees Celcius"
+  },
+
+  {
+    "question": "Which is the only mammal that can’t jump?",
+    "optionA": "Dog",
+    "optionB": "Elephant",
+    "optionC": "Goat",
+    "optionD": "Lion",
+    "answer": "Elephant"
+  },
+
+  {
+    "question": "Where is the smallest bone in the human body?",
+    "optionA": "The Chest",
+    "optionB": "The Ear",
+    "optionC": "The Legs",
+    "optionD": "The Hands",
+    "answer": "The Ear"
+  },
+  {
+    "question": "How many squares are there on a chess board?",
+    "optionA": "128",
+    "optionB": "64",
+    "optionC": "32",
+    "optionD": "256",
+    "answer": "64"
+  }
+]
